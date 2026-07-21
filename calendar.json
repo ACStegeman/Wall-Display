@@ -273,14 +273,6 @@
   },
   {
     "calendar": "work",
-    "summary": "FW: Estates | Weekly Status Call",
-    "start": "2026-07-23T15:00:00-04:00",
-    "end": "2026-07-23T15:30:00-04:00",
-    "allDay": false,
-    "location": "Microsoft Teams Meeting"
-  },
-  {
-    "calendar": "work",
     "summary": "CRM Implementation [Mulesoft Intelligent Document Processing (IDP)]",
     "start": "2026-07-23T15:00:00-04:00",
     "end": "2026-07-23T16:30:00-04:00",
